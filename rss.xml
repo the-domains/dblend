@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[dblend]]></title>
-        <description><![CDATA[dblend]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Integrated Marketing Design and Communications]]></title>
+        <description><![CDATA[Integrated Marketing Design and Communications]]></description>
+        <link>https://thegrid.ai/dblend/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:33:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 11:49:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dblend/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefinedb770e18d-ee25-49d4-a2d0-2c9ce5a6f0e7/index.html</link>
+            <title><![CDATA[Bridging the gap between design, technology and marketing strategy.]]></title>
+            <description><![CDATA[<article><h1>Bridging the gap between design, technology and marketing strategy.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1adfc64be82ca4241587aee20461a10dc2f5b07d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dblend/b770e18d-ee25-49d4-a2d0-2c9ce5a6f0e7/index.html</link>
             <guid isPermaLink="false">b770e18d-ee25-49d4-a2d0-2c9ce5a6f0e7</guid>
-            <pubDate>Wed, 02 Mar 2016 20:33:10 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 11:49:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
