@@ -22,8 +22,8 @@ color:
     - '#bed1bb'
     - '#374a51'
     - '#728479'
-  brandStrength: 0.6875
-  lightness: 0.25
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+  brandStrength: 0.1875
+  lightness: 0.625
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
